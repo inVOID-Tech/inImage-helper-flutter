@@ -29,8 +29,9 @@ To Obtain your organisation's ```authkey```, contact us at hello@invoid.co
 
 ```dart
 import 'package:image_helper/image_helper.dart';
+
+ImageHelperData _imageHelperData = await ImageHelper.launch( context, authkey , imageType , accessToGallery);
 ```
-``` ImageHelperData _imageHelperData = await ImageHelper.launch( context, authkey , imageType , accessToGallery); ```
 
 * ```authkey``` is of type ```String```
 * ```imageType``` is of type ```String```
