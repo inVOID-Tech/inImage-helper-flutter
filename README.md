@@ -27,21 +27,14 @@ To Obtain your organisation's ```authkey```, contact us at hello@invoid.co
 
 ## Usage
 
-Then you just have to import the package with
-
 ```dart
 import 'package:image_helper/image_helper.dart';
 ```
-instantiate
+``` ImageHelperData _imageHelperData = await ImageHelper.launch( context, authkey , imageType , accessToGallery); ```
 
-```ImageHelperData _imageHelperData;```
-
-Call the SDK, Note
 * ```authkey``` is of type ```String```
 * ```imageType``` is of type ```String```
 * ```accessToGallery``` is of type ```bool```
-
-``` async {  _imageHelperData = await ImageHelper.launch( context, authkey , imageType , accessToGallery); } ```
 
 #### ```imageType``` Parameters are 
 * ImageHelper.SELFIE_ONLY
