@@ -80,4 +80,4 @@ Before extracting the result check if process completed successfully or not.
 - For Doc Front Path ``` _imageHelperData.docFrontPath```
 - For Doc Front Full Path ``` _imageHelperData.docFrontFullPath```
 - For Doc Back Path ``` _imageHelperData.docBackPath```
-- For Doc Back Full Path ``` _imageHelperData.docBackFullPath``
+- For Doc Back Full Path ``` _imageHelperData.docBackFullPath```
