@@ -1,12 +1,5 @@
 ## Getting Started
 
-Add this to your package's `pubspec.yaml` file:
-
-```yaml
-dependencies:
-  image_helper:
-```
-
 ## Android
 
 ### Minimum Requirements
@@ -84,24 +77,7 @@ Before extracting the result check if process completed successfully or not.
 - Message ```_imageHelperData.message```
 
 - For Selfie Path ``` _imageHelperData.selfiePath```
-- For Aadhaar Front Path ``` _imageHelperData.aadhaarFrontPath```
-- For Aadhaar Front Full Path ``` _imageHelperData.aadhaarFrontFullPath```
-- For Aadhaar Back Path ``` _imageHelperData.aadhaarBackPath```
-- For Aadhaar Back Full Path ``` _imageHelperData.aadhaarBackFullPath```
-- For Back DL ``` _imageHelperData.backDl```
-- For Back Full DL ``` _imageHelperData.backfullDl```
-- For Front DL ``` _imageHelperData.frontDl```
-- For Front Full DL ``` _imageHelperData.frontfullDl```
-- For Front Full Voter ``` _imageHelperData.frontFullVoter```
-- For Front Voter ``` _imageHelperData.frontVoter```
-- For Back Full Voter ``` _imageHelperData.backFullVoter```
-- For Back Voter ``` _imageHelperData.backVoter```
-- For Front Full Pan ``` _imageHelperData.frontFullPan```
-- For Front Pan ``` _imageHelperData.frontPan```
-- For Back Full Pan ``` _imageHelperData.backFullPan```
-- For Back Pan ``` _imageHelperData.backPan```
-- For Front Full Passport ``` _imageHelperData.frontFullPassport```
-- For Front Passport ``` _imageHelperData.frontPassport```
-- For Back Full Passport ``` _imageHelperData.backFullPassport```
-- For Back Passport ``` _imageHelperData.backPassport```
-
+- For Doc Front Path ``` _imageHelperData.docFrontPath```
+- For Doc Front Full Path ``` _imageHelperData.docFrontFullPath```
+- For Doc Back Path ``` _imageHelperData.docBackPath```
+- For Doc Back Full Path ``` _imageHelperData.docBackFullPath``
